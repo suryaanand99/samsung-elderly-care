@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 76379029ab76ba24a8195a5fbd35b8c5
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 74ae008b1fb26d8fb9f5ddba8af55b3a
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 8.316029, y: 3.1780171, z: -6.038438}
+      lookAt: {x: 1.1061926, y: -0.025932606, z: 5.4130964}
+      up: {x: -0.122753225, y: 0.973097, z: 0.19497153}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 00:00#1
+    100002: chair
+    100004: chair 1
+    100006: Component#2
+    100008: Component#3
+    100010: Component#34
+    100012: Component#4
+    100014: Component#4 1
+    100016: //RootNode
+    100018: Group 1
+    100020: Group 101
+    100022: Group 11
+    100024: Group 110
+    100026: Group 111
+    100028: Group 113
+    100030: Group 115
+    100032: Group 117
+    100034: Group 119
+    100036: Group 120
+    100038: Group 122
+    100040: Group 124
+    100042: Group 126
+    100044: Group 127
+    100046: Group 129
+    100048: Group 13
+    100050: Group 131
+    100052: Group 133
+    100054: Group 135
+    100056: Group 136
+    100058: Group 138
+    100060: Group 140
+    100062: Group 15
+    100064: Group 17
+    100066: Group 20
+    100068: Group 21
+    100070: Group 22
+    100072: Group 24
+    100074: Group 26
+    100076: Group 28
+    100078: Group 3
+    100080: Group 30
+    100082: Group 32
+    100084: Group 34
+    100086: Group 36
+    100088: Group 38
+    100090: Group 40
+    100092: Group 42
+    100094: Group 44
+    100096: Group 46
+    100098: Group 48
+    100100: Group 5
+    100102: Group 50
+    100104: Group 52
+    100106: Group 54
+    100108: Group 56
+    100110: Group 57
+    100112: Group 59
+    100114: Group 61
+    100116: Group 63
+    100118: Group 65
+    100120: Group 67
+    100122: Group 69
+    100124: Group 7
+    100126: Group 71
+    100128: Group 73
+    100130: Group 75
+    100132: Group 77
+    100134: Group 78
+    100136: Group 80
+    100138: Group 83
+    100140: Group 84
+    100142: Group 86
+    100144: Group 88
+    100146: Group 9
+    100148: Group 90
+    100150: Group 94
+    100152: Group 95
+    100154: Group 97
+    100156: Group 99
+    100158: Microwave
+    400000: 00:00#1
+    400002: chair
+    400004: chair 1
+    400006: Component#2
+    400008: Component#3
+    400010: Component#34
+    400012: Component#4
+    400014: Component#4 1
+    400016: //RootNode
+    400018: Group 1
+    400020: Group 101
+    400022: Group 11
+    400024: Group 110
+    400026: Group 111
+    400028: Group 113
+    400030: Group 115
+    400032: Group 117
+    400034: Group 119
+    400036: Group 120
+    400038: Group 122
+    400040: Group 124
+    400042: Group 126
+    400044: Group 127
+    400046: Group 129
+    400048: Group 13
+    400050: Group 131
+    400052: Group 133
+    400054: Group 135
+    400056: Group 136
+    400058: Group 138
+    400060: Group 140
+    400062: Group 15
+    400064: Group 17
+    400066: Group 20
+    400068: Group 21
+    400070: Group 22
+    400072: Group 24
+    400074: Group 26
+    400076: Group 28
+    400078: Group 3
+    400080: Group 30
+    400082: Group 32
+    400084: Group 34
+    400086: Group 36
+    400088: Group 38
+    400090: Group 40
+    400092: Group 42
+    400094: Group 44
+    400096: Group 46
+    400098: Group 48
+    400100: Group 5
+    400102: Group 50
+    400104: Group 52
+    400106: Group 54
+    400108: Group 56
+    400110: Group 57
+    400112: Group 59
+    400114: Group 61
+    400116: Group 63
+    400118: Group 65
+    400120: Group 67
+    400122: Group 69
+    400124: Group 7
+    400126: Group 71
+    400128: Group 73
+    400130: Group 75
+    400132: Group 77
+    400134: Group 78
+    400136: Group 80
+    400138: Group 83
+    400140: Group 84
+    400142: Group 86
+    400144: Group 88
+    400146: Group 9
+    400148: Group 90
+    400150: Group 94
+    400152: Group 95
+    400154: Group 97
+    400156: Group 99
+    400158: Microwave
+    2100000: _defaultMat
+    2100002: '[Formica Laminate Dark]'
+    2100004: '[Tile Travertine 2 inch]'
+    2100006: '[Steel Brushed Stainless]'
+    2100008: gold-texture
+    2100010: _69
+    2100012: TexturesCom_WoodFine0058_30_seamless_S1
+    2100014: '[Metal Seamed]1'
+    2100016: _70
+    2100018: _9
+    2100020: _1
+    2100022: _63
+    2100024: _87
+    2100026: _88
+    2100028: _71
+    2100030: TexturesCom_WoodFine0058_30_seamless_S
+    2100032: _74
+    2100034: _10
+    2100036: _85
+    2100038: _72
+    2100040: _78
+    2100042: _84
+    2100044: _81
+    2100046: _79
+    2100048: '[Metal Corrugated Shiny]1'
+    2100050: '[Translucent Glass Blue]'
+    2100052: '[Color M06]'
+    2100054: '[Color G03]'
+    2100056: _103
+    2100058: _104
+    2300000: 00:00#1
+    2300002: chair
+    2300004: chair 1
+    2300006: Group 1
+    2300008: Group 101
+    2300010: Group 11
+    2300012: Group 111
+    2300014: Group 113
+    2300016: Group 115
+    2300018: Group 117
+    2300020: Group 120
+    2300022: Group 122
+    2300024: Group 124
+    2300026: Group 127
+    2300028: Group 129
+    2300030: Group 13
+    2300032: Group 131
+    2300034: Group 133
+    2300036: Group 136
+    2300038: Group 138
+    2300040: Group 140
+    2300042: Group 15
+    2300044: Group 17
+    2300046: Group 22
+    2300048: Group 24
+    2300050: Group 26
+    2300052: Group 28
+    2300054: Group 30
+    2300056: Group 32
+    2300058: Group 34
+    2300060: Group 36
+    2300062: Group 38
+    2300064: Group 40
+    2300066: Group 42
+    2300068: Group 44
+    2300070: Group 46
+    2300072: Group 48
+    2300074: Group 5
+    2300076: Group 50
+    2300078: Group 52
+    2300080: Group 54
+    2300082: Group 57
+    2300084: Group 59
+    2300086: Group 61
+    2300088: Group 63
+    2300090: Group 65
+    2300092: Group 67
+    2300094: Group 69
+    2300096: Group 7
+    2300098: Group 71
+    2300100: Group 73
+    2300102: Group 75
+    2300104: Group 78
+    2300106: Group 80
+    2300108: Group 84
+    2300110: Group 86
+    2300112: Group 88
+    2300114: Group 9
+    2300116: Group 90
+    2300118: Group 95
+    2300120: Group 97
+    2300122: Group 99
+    3300000: 00:00#1
+    3300002: chair
+    3300004: chair 1
+    3300006: Group 1
+    3300008: Group 101
+    3300010: Group 11
+    3300012: Group 111
+    3300014: Group 113
+    3300016: Group 115
+    3300018: Group 117
+    3300020: Group 120
+    3300022: Group 122
+    3300024: Group 124
+    3300026: Group 127
+    3300028: Group 129
+    3300030: Group 13
+    3300032: Group 131
+    3300034: Group 133
+    3300036: Group 136
+    3300038: Group 138
+    3300040: Group 140
+    3300042: Group 15
+    3300044: Group 17
+    3300046: Group 22
+    3300048: Group 24
+    3300050: Group 26
+    3300052: Group 28
+    3300054: Group 30
+    3300056: Group 32
+    3300058: Group 34
+    3300060: Group 36
+    3300062: Group 38
+    3300064: Group 40
+    3300066: Group 42
+    3300068: Group 44
+    3300070: Group 46
+    3300072: Group 48
+    3300074: Group 5
+    3300076: Group 50
+    3300078: Group 52
+    3300080: Group 54
+    3300082: Group 57
+    3300084: Group 59
+    3300086: Group 61
+    3300088: Group 63
+    3300090: Group 65
+    3300092: Group 67
+    3300094: Group 69
+    3300096: Group 7
+    3300098: Group 71
+    3300100: Group 73
+    3300102: Group 75
+    3300104: Group 78
+    3300106: Group 80
+    3300108: Group 84
+    3300110: Group 86
+    3300112: Group 88
+    3300114: Group 9
+    3300116: Group 90
+    3300118: Group 95
+    3300120: Group 97
+    3300122: Group 99
+    4300000: Mesh Group 1
+    4300002: Mesh Group 5
+    4300004: Mesh Group 7
+    4300006: Mesh Group 9
+    4300008: Mesh Group 11
+    4300010: Mesh Group 13
+    4300012: Mesh Group 15
+    4300014: Mesh Group 17
+    4300016: Mesh Group 22
+    4300018: Mesh Group 24
+    4300020: Mesh Group 26
+    4300022: Mesh Group 28
+    4300024: Mesh Group 30
+    4300026: Mesh Group 52
+    4300028: Mesh Group 54
+    4300030: Mesh Group 57
+    4300032: Mesh Group 59
+    4300034: Mesh Group 61
+    4300036: Mesh Group 65
+    4300038: Mesh Group 67
+    4300040: Mesh Group 71
+    4300042: Mesh Group 78
+    4300044: Mesh Group 84
+    4300046: Mesh Group 86
+    4300048: Mesh Group 88
+    4300050: Mesh Group 90
+    4300052: Mesh 00:00#1
+    4300054: Mesh Group 95
+    4300056: Mesh Group 97
+    4300058: Mesh Group 99
+    4300060: Mesh Group 101
+    4300062: Mesh chair
+    4300064: Mesh Group 111
+    4300066: Mesh Group 113
+    4300068: Mesh Group 117
+    4300070: Mesh Group 124
+    4300072: Mesh Group 127
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,700 @@
+fileFormatVersion: 2
+guid: 2a1005eaeab097b418a8fd54b1ee3d02
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000
+  assetHash:
+    serializedVersion: 2
+    Hash: ea4f0ec75b46be658aede1919fc01560
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 4.5098643, y: 2.1518984, z: 0.786865}
+      lookAt: {x: 2.2552505, y: 0.3253391, z: 2.8415375}
+      up: {x: -0.3797109, y: 0.85794955, z: 0.34603783}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 4.5098643, y: 2.1518984, z: 0.786865}
+        lookAt: {x: 2.2552505, y: 0.3253391, z: 2.8415375}
+        up: {x: -0.3797109, y: 0.85794955, z: 0.34603783}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 1
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Dishes_Bowl_5in#1
+    100002: Dishes_Bowl_5in#1 1
+    100004: Dishes_Bowl_5in#1 2
+    100006: Dishes_Bowl_5in#1 3
+    100008: Dishes_Bowl_5in#1 4
+    100010: Dishes_Bowl_5in#1 5
+    100012: Dishes_Bowl_5in#1 6
+    100014: Dishes_Bowl_5in#1 7
+    100016: Dishes_Plate_12in#3
+    100018: Dishes_Plate_12in#3 1
+    100020: Dishes_Plate_12in#3 2
+    100022: Dishes_Plate_12in#3 3
+    100024: Dishes_Plate_12in#3 4
+    100026: Dishes_Plate_12in#3 5
+    100028: Dishes_Plate_12in#3 6
+    100030: Dishes_Plate_12in#3 7
+    100032: Dishes_Plate_12in#4
+    100034: Dishes_Plate_12in#4 1
+    100036: Dishes_Plate_12in#4 2
+    100038: Dishes_Plate_12in#4 3
+    100040: Dishes_Plate_12in#4 4
+    100042: Dishes_Plate_12in#4 5
+    100044: Dishes_Plate_12in#4 6
+    100046: Dishes_Plate_12in#4 7
+    100048: Flame
+    100050: Flame 1
+    100052: flower
+    100054: flower 1
+    100056: flower 2
+    100058: flower 3
+    100060: flower 4
+    100062: flower 5
+    100064: flower 6
+    100066: flower 7
+    100068: flower all
+    100070: flower all 1
+    100072: flower all 2
+    100074: flower all 3
+    100076: flower all 4
+    100078: flower all 5
+    100080: flower all 6
+    100082: flower all 7
+    100084: Group 147
+    100086: Group 149
+    100088: Group 165
+    100090: Group 171
+    100092: Group 195
+    100094: Group 208
+    100096: Group 223
+    100098: Group 238
+    100100: Group 246
+    100102: Group 268
+    100104: Group 4
+    100106: Group 6
+    100108: Group#1
+    100110: Group#1 1
+    100112: Group#1 2
+    100114: Group#1 3
+    100116: Group#1 4
+    100118: Group#1 5
+    100120: Group#1 6
+    100122: Group#1 7
+    100124: Group#18
+    100126: Group#18 1
+    100128: Group#2
+    100130: Group#2 1
+    100132: Group#2 2
+    100134: Group#2 3
+    100136: Group#2 4
+    100138: Group#2 5
+    100140: Group#2 6
+    100142: Group#2 7
+    100144: Group#20
+    100146: Group#20 1
+    100148: Group#20 2
+    100150: Group#20 3
+    100152: Group#20 4
+    100154: Group#20 5
+    100156: Group#20 6
+    100158: Group#20 7
+    100160: Group#3
+    100162: Group#3 1
+    100164: Group#3 2
+    100166: Group#3 3
+    100168: Group#3 4
+    100170: Group#3 5
+    100172: Group#3 6
+    100174: Group#3 7
+    100176: Group#47
+    100178: Group#9
+    100180: Group#9 1
+    100182: petal
+    100184: petal 1
+    100186: petal 10
+    100188: petal 11
+    100190: petal 12
+    100192: petal 13
+    100194: petal 14
+    100196: petal 15
+    100198: petal 16
+    100200: petal 17
+    100202: petal 18
+    100204: petal 19
+    100206: petal 2
+    100208: petal 20
+    100210: petal 21
+    100212: petal 22
+    100214: petal 23
+    100216: petal 3
+    100218: petal 4
+    100220: petal 5
+    100222: petal 6
+    100224: petal 7
+    100226: petal 8
+    100228: petal 9
+    100230: petal#1
+    100232: petal#1 1
+    100234: petal#1 10
+    100236: petal#1 11
+    100238: petal#1 12
+    100240: petal#1 13
+    100242: petal#1 14
+    100244: petal#1 15
+    100246: petal#1 16
+    100248: petal#1 17
+    100250: petal#1 18
+    100252: petal#1 19
+    100254: petal#1 2
+    100256: petal#1 20
+    100258: petal#1 21
+    100260: petal#1 22
+    100262: petal#1 23
+    100264: petal#1 3
+    100266: petal#1 4
+    100268: petal#1 5
+    100270: petal#1 6
+    100272: petal#1 7
+    100274: petal#1 8
+    100276: petal#1 9
+    100278: ske3
+    100280: ske3 1
+    100282: ske3 2
+    100284: ske3 3
+    100286: ske3 4
+    100288: ske3 5
+    100290: ske3 6
+    100292: ske3 7
+    100294: skeAD7
+    100296: skeAD7 1
+    100298: skimmer_candlestick
+    100300: skimmer_candlestick 1
+    100302: stalk
+    100304: stalk 1
+    100306: stalk 2
+    100308: stalk 3
+    100310: stalk 4
+    100312: stalk 5
+    100314: stalk 6
+    100316: stalk 7
+    100318: //RootNode
+    400000: Dishes_Bowl_5in#1
+    400002: Dishes_Bowl_5in#1 1
+    400004: Dishes_Bowl_5in#1 2
+    400006: Dishes_Bowl_5in#1 3
+    400008: Dishes_Bowl_5in#1 4
+    400010: Dishes_Bowl_5in#1 5
+    400012: Dishes_Bowl_5in#1 6
+    400014: Dishes_Bowl_5in#1 7
+    400016: Dishes_Plate_12in#3
+    400018: Dishes_Plate_12in#3 1
+    400020: Dishes_Plate_12in#3 2
+    400022: Dishes_Plate_12in#3 3
+    400024: Dishes_Plate_12in#3 4
+    400026: Dishes_Plate_12in#3 5
+    400028: Dishes_Plate_12in#3 6
+    400030: Dishes_Plate_12in#3 7
+    400032: Dishes_Plate_12in#4
+    400034: Dishes_Plate_12in#4 1
+    400036: Dishes_Plate_12in#4 2
+    400038: Dishes_Plate_12in#4 3
+    400040: Dishes_Plate_12in#4 4
+    400042: Dishes_Plate_12in#4 5
+    400044: Dishes_Plate_12in#4 6
+    400046: Dishes_Plate_12in#4 7
+    400048: Flame
+    400050: Flame 1
+    400052: flower
+    400054: flower 1
+    400056: flower 2
+    400058: flower 3
+    400060: flower 4
+    400062: flower 5
+    400064: flower 6
+    400066: flower 7
+    400068: flower all
+    400070: flower all 1
+    400072: flower all 2
+    400074: flower all 3
+    400076: flower all 4
+    400078: flower all 5
+    400080: flower all 6
+    400082: flower all 7
+    400084: Group 147
+    400086: Group 149
+    400088: Group 165
+    400090: Group 171
+    400092: Group 195
+    400094: Group 208
+    400096: Group 223
+    400098: Group 238
+    400100: Group 246
+    400102: Group 268
+    400104: Group 4
+    400106: Group 6
+    400108: Group#1
+    400110: Group#1 1
+    400112: Group#1 2
+    400114: Group#1 3
+    400116: Group#1 4
+    400118: Group#1 5
+    400120: Group#1 6
+    400122: Group#1 7
+    400124: Group#18
+    400126: Group#18 1
+    400128: Group#2
+    400130: Group#2 1
+    400132: Group#2 2
+    400134: Group#2 3
+    400136: Group#2 4
+    400138: Group#2 5
+    400140: Group#2 6
+    400142: Group#2 7
+    400144: Group#20
+    400146: Group#20 1
+    400148: Group#20 2
+    400150: Group#20 3
+    400152: Group#20 4
+    400154: Group#20 5
+    400156: Group#20 6
+    400158: Group#20 7
+    400160: Group#3
+    400162: Group#3 1
+    400164: Group#3 2
+    400166: Group#3 3
+    400168: Group#3 4
+    400170: Group#3 5
+    400172: Group#3 6
+    400174: Group#3 7
+    400176: Group#47
+    400178: Group#9
+    400180: Group#9 1
+    400182: petal
+    400184: petal 1
+    400186: petal 10
+    400188: petal 11
+    400190: petal 12
+    400192: petal 13
+    400194: petal 14
+    400196: petal 15
+    400198: petal 16
+    400200: petal 17
+    400202: petal 18
+    400204: petal 19
+    400206: petal 2
+    400208: petal 20
+    400210: petal 21
+    400212: petal 22
+    400214: petal 23
+    400216: petal 3
+    400218: petal 4
+    400220: petal 5
+    400222: petal 6
+    400224: petal 7
+    400226: petal 8
+    400228: petal 9
+    400230: petal#1
+    400232: petal#1 1
+    400234: petal#1 10
+    400236: petal#1 11
+    400238: petal#1 12
+    400240: petal#1 13
+    400242: petal#1 14
+    400244: petal#1 15
+    400246: petal#1 16
+    400248: petal#1 17
+    400250: petal#1 18
+    400252: petal#1 19
+    400254: petal#1 2
+    400256: petal#1 20
+    400258: petal#1 21
+    400260: petal#1 22
+    400262: petal#1 23
+    400264: petal#1 3
+    400266: petal#1 4
+    400268: petal#1 5
+    400270: petal#1 6
+    400272: petal#1 7
+    400274: petal#1 8
+    400276: petal#1 9
+    400278: ske3
+    400280: ske3 1
+    400282: ske3 2
+    400284: ske3 3
+    400286: ske3 4
+    400288: ske3 5
+    400290: ske3 6
+    400292: ske3 7
+    400294: skeAD7
+    400296: skeAD7 1
+    400298: skimmer_candlestick
+    400300: skimmer_candlestick 1
+    400302: stalk
+    400304: stalk 1
+    400306: stalk 2
+    400308: stalk 3
+    400310: stalk 4
+    400312: stalk 5
+    400314: stalk 6
+    400316: stalk 7
+    400318: //RootNode
+    2100000: _defaultMat
+    2100002: Translucent_Glass_Gray
+    2100004: Color_008
+    2100006: '[Color_D05]1'
+    2100008: '[Color_007]'
+    2100010: clight
+    2100012: Color_003
+    2100014: '[Color_C14]'
+    2100016: _YellowGreen_
+    2100018: _Iris_
+    2100020: _Gold_
+    2100022: '[Color_000]1'
+    2100024: '[Color_000]2'
+    2100026: _Ivory_
+    2100028: _13
+    2300000: Dishes_Bowl_5in#1
+    2300002: Dishes_Bowl_5in#1 1
+    2300004: Dishes_Bowl_5in#1 2
+    2300006: Dishes_Bowl_5in#1 3
+    2300008: Dishes_Bowl_5in#1 4
+    2300010: Dishes_Bowl_5in#1 5
+    2300012: Dishes_Bowl_5in#1 6
+    2300014: Dishes_Bowl_5in#1 7
+    2300016: Dishes_Plate_12in#3
+    2300018: Dishes_Plate_12in#3 1
+    2300020: Dishes_Plate_12in#3 2
+    2300022: Dishes_Plate_12in#3 3
+    2300024: Dishes_Plate_12in#3 4
+    2300026: Dishes_Plate_12in#3 5
+    2300028: Dishes_Plate_12in#3 6
+    2300030: Dishes_Plate_12in#3 7
+    2300032: Dishes_Plate_12in#4
+    2300034: Dishes_Plate_12in#4 1
+    2300036: Dishes_Plate_12in#4 2
+    2300038: Dishes_Plate_12in#4 3
+    2300040: Dishes_Plate_12in#4 4
+    2300042: Dishes_Plate_12in#4 5
+    2300044: Dishes_Plate_12in#4 6
+    2300046: Dishes_Plate_12in#4 7
+    2300048: Flame
+    2300050: Flame 1
+    2300052: Group 147
+    2300054: Group 149
+    2300056: Group 4
+    2300058: Group 6
+    2300060: Group#1
+    2300062: Group#1 1
+    2300064: Group#1 2
+    2300066: Group#1 3
+    2300068: Group#1 4
+    2300070: Group#1 5
+    2300072: Group#1 6
+    2300074: Group#1 7
+    2300076: Group#3
+    2300078: Group#3 1
+    2300080: Group#3 2
+    2300082: Group#3 3
+    2300084: Group#3 4
+    2300086: Group#3 5
+    2300088: Group#3 6
+    2300090: Group#3 7
+    2300092: Group#47
+    2300094: petal
+    2300096: petal 1
+    2300098: petal 10
+    2300100: petal 11
+    2300102: petal 12
+    2300104: petal 13
+    2300106: petal 14
+    2300108: petal 15
+    2300110: petal 16
+    2300112: petal 17
+    2300114: petal 18
+    2300116: petal 19
+    2300118: petal 2
+    2300120: petal 20
+    2300122: petal 21
+    2300124: petal 22
+    2300126: petal 23
+    2300128: petal 3
+    2300130: petal 4
+    2300132: petal 5
+    2300134: petal 6
+    2300136: petal 7
+    2300138: petal 8
+    2300140: petal 9
+    2300142: petal#1
+    2300144: petal#1 1
+    2300146: petal#1 10
+    2300148: petal#1 11
+    2300150: petal#1 12
+    2300152: petal#1 13
+    2300154: petal#1 14
+    2300156: petal#1 15
+    2300158: petal#1 16
+    2300160: petal#1 17
+    2300162: petal#1 18
+    2300164: petal#1 19
+    2300166: petal#1 2
+    2300168: petal#1 20
+    2300170: petal#1 21
+    2300172: petal#1 22
+    2300174: petal#1 23
+    2300176: petal#1 3
+    2300178: petal#1 4
+    2300180: petal#1 5
+    2300182: petal#1 6
+    2300184: petal#1 7
+    2300186: petal#1 8
+    2300188: petal#1 9
+    2300190: ske3
+    2300192: ske3 1
+    2300194: ske3 2
+    2300196: ske3 3
+    2300198: ske3 4
+    2300200: ske3 5
+    2300202: ske3 6
+    2300204: ske3 7
+    2300206: skeAD7
+    2300208: skeAD7 1
+    2300210: skimmer_candlestick
+    2300212: skimmer_candlestick 1
+    2300214: stalk
+    2300216: stalk 1
+    2300218: stalk 2
+    2300220: stalk 3
+    2300222: stalk 4
+    2300224: stalk 5
+    2300226: stalk 6
+    2300228: stalk 7
+    3300000: Dishes_Bowl_5in#1
+    3300002: Dishes_Bowl_5in#1 1
+    3300004: Dishes_Bowl_5in#1 2
+    3300006: Dishes_Bowl_5in#1 3
+    3300008: Dishes_Bowl_5in#1 4
+    3300010: Dishes_Bowl_5in#1 5
+    3300012: Dishes_Bowl_5in#1 6
+    3300014: Dishes_Bowl_5in#1 7
+    3300016: Dishes_Plate_12in#3
+    3300018: Dishes_Plate_12in#3 1
+    3300020: Dishes_Plate_12in#3 2
+    3300022: Dishes_Plate_12in#3 3
+    3300024: Dishes_Plate_12in#3 4
+    3300026: Dishes_Plate_12in#3 5
+    3300028: Dishes_Plate_12in#3 6
+    3300030: Dishes_Plate_12in#3 7
+    3300032: Dishes_Plate_12in#4
+    3300034: Dishes_Plate_12in#4 1
+    3300036: Dishes_Plate_12in#4 2
+    3300038: Dishes_Plate_12in#4 3
+    3300040: Dishes_Plate_12in#4 4
+    3300042: Dishes_Plate_12in#4 5
+    3300044: Dishes_Plate_12in#4 6
+    3300046: Dishes_Plate_12in#4 7
+    3300048: Flame
+    3300050: Flame 1
+    3300052: Group 147
+    3300054: Group 149
+    3300056: Group 4
+    3300058: Group 6
+    3300060: Group#1
+    3300062: Group#1 1
+    3300064: Group#1 2
+    3300066: Group#1 3
+    3300068: Group#1 4
+    3300070: Group#1 5
+    3300072: Group#1 6
+    3300074: Group#1 7
+    3300076: Group#3
+    3300078: Group#3 1
+    3300080: Group#3 2
+    3300082: Group#3 3
+    3300084: Group#3 4
+    3300086: Group#3 5
+    3300088: Group#3 6
+    3300090: Group#3 7
+    3300092: Group#47
+    3300094: petal
+    3300096: petal 1
+    3300098: petal 10
+    3300100: petal 11
+    3300102: petal 12
+    3300104: petal 13
+    3300106: petal 14
+    3300108: petal 15
+    3300110: petal 16
+    3300112: petal 17
+    3300114: petal 18
+    3300116: petal 19
+    3300118: petal 2
+    3300120: petal 20
+    3300122: petal 21
+    3300124: petal 22
+    3300126: petal 23
+    3300128: petal 3
+    3300130: petal 4
+    3300132: petal 5
+    3300134: petal 6
+    3300136: petal 7
+    3300138: petal 8
+    3300140: petal 9
+    3300142: petal#1
+    3300144: petal#1 1
+    3300146: petal#1 10
+    3300148: petal#1 11
+    3300150: petal#1 12
+    3300152: petal#1 13
+    3300154: petal#1 14
+    3300156: petal#1 15
+    3300158: petal#1 16
+    3300160: petal#1 17
+    3300162: petal#1 18
+    3300164: petal#1 19
+    3300166: petal#1 2
+    3300168: petal#1 20
+    3300170: petal#1 21
+    3300172: petal#1 22
+    3300174: petal#1 23
+    3300176: petal#1 3
+    3300178: petal#1 4
+    3300180: petal#1 5
+    3300182: petal#1 6
+    3300184: petal#1 7
+    3300186: petal#1 8
+    3300188: petal#1 9
+    3300190: ske3
+    3300192: ske3 1
+    3300194: ske3 2
+    3300196: ske3 3
+    3300198: ske3 4
+    3300200: ske3 5
+    3300202: ske3 6
+    3300204: ske3 7
+    3300206: skeAD7
+    3300208: skeAD7 1
+    3300210: skimmer_candlestick
+    3300212: skimmer_candlestick 1
+    3300214: stalk
+    3300216: stalk 1
+    3300218: stalk 2
+    3300220: stalk 3
+    3300222: stalk 4
+    3300224: stalk 5
+    3300226: stalk 6
+    3300228: stalk 7
+    4300000: Mesh Group#47
+    4300002: Mesh Group 4
+    4300004: Mesh Group 6
+    4300006: Mesh Flame
+    4300008: Mesh skimmer_candlestick
+    4300010: Mesh skeAD7
+    4300012: Mesh stalk
+    4300014: Mesh petal#1
+    4300016: Mesh petal
+    4300018: Mesh ske3
+    4300020: Mesh Dishes_Bowl_5in#1
+    4300022: Mesh Dishes_Plate_12in#3
+    4300024: Mesh Dishes_Plate_12in#4
+    4300026: Mesh Group#3
+    4300028: Mesh Group#1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

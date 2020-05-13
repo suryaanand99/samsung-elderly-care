@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 0c6b0e5cbe5fbce43a08bace5745473b
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f0000001000000011000000
+  assetHash:
+    serializedVersion: 2
+    Hash: ee3ed497165ed2ca39e74b916517c052
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.8142226, y: 2.782635, z: -1.5217178}
+      lookAt: {x: 162.14081, y: -204.43207, z: 184.60555}
+      up: {x: 0.41993615, y: 0.763538, z: 0.49057454}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: half
+    100002: half 1
+    100004: Layer:0#1
+    100006: Layer:Cris
+    100008: Layer:Pile
+    100010: Layer:Scar
+    100012: Layer:VL60
+    100014: Layer:VL66#1
+    100016: //RootNode
+    100018: skp32
+    100020: Water_Faucet_2
+    400000: half
+    400002: half 1
+    400004: Layer:0#1
+    400006: Layer:Cris
+    400008: Layer:Pile
+    400010: Layer:Scar
+    400012: Layer:VL60
+    400014: Layer:VL66#1
+    400016: //RootNode
+    400018: skp32
+    400020: Water_Faucet_2
+    2100000: _defaultMat
+    2100002: _2
+    2100004: Color_A01
+    2300000: half
+    2300002: half 1
+    2300004: Layer:Cris
+    2300006: Layer:Pile
+    2300008: Layer:Scar
+    2300010: Layer:VL60
+    2300012: Layer:VL66#1
+    3300000: half
+    3300002: half 1
+    3300004: Layer:Cris
+    3300006: Layer:Pile
+    3300008: Layer:Scar
+    3300010: Layer:VL60
+    3300012: Layer:VL66#1
+    4300000: Mesh half
+    4300002: Mesh Layer:Cris
+    4300004: Mesh Layer:Pile
+    4300006: Mesh Layer:Scar
+    4300008: Mesh Layer:VL60
+    4300010: Mesh Layer:VL66#1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
