@@ -1,15 +1,19 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.IO;
+using UnityEngine.UI;
 
 public class bedRoomDetector : MonoBehaviour
 {
     private bool triggered = false;
     private Vector3 currentPOs;
+    private string[] validator = new string[5];
 
     [SerializeField]
     public GameObject player;
     public float delay = 5f;
+    public Text gameClock;
 
     // Start is called before the first frame update
     private void Start()
@@ -27,10 +31,11 @@ public class bedRoomDetector : MonoBehaviour
             {
                 print(tag + ":Actor is moving");
                 CSVExporter.AppendToReport(
-                    new string[2]
+                    new string[]
                     {
                         tag.ToString(),
-                        "Actor is moving"
+                        "Actor is moving",
+                        gameClock.text
                     }
                 );
                 currentPOs = player.transform.position;
@@ -40,16 +45,28 @@ public class bedRoomDetector : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        //this for the validation report
+        validator[0] = tag;
+        validator[1] = gameClock.text;
+        validator[3] = System.DateTime.Now.ToString();
+
+        //this for generation of dataset
         if(other.tag == "MainCamera")
         {
             triggered = true;
-           currentPOs = other.transform.position;
+            currentPOs = other.transform.position;
         }
     }
 
     private void OnTriggerExit(Collider other)
     {
-        if(other.tag == "MainCamera")
+        //this for the validation report
+        validator[2] = gameClock.text;
+        validator[4] = System.DateTime.Now.ToString();
+        validationExporter.AppendToReport(validator);
+
+        //this for generation of dataset
+        if (other.tag == "MainCamera")
         {
             triggered = false;
         }

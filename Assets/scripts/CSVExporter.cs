@@ -9,9 +9,10 @@ public static class CSVExporter
     private static string[] reportHeaders = new string[]
     {
         "Sensor Name",
-        "Action"
+        "Action",
+        "Time Stamp - Game clock"
     };
-    private static string timeStampHeader = "Time Stamp";
+    private static string timeStampHeader = "Time Stamp - Real clock";
 
     public static void AppendToReport(string[] strings)
     {

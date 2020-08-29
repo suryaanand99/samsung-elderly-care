@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scheduled master.unity
+- path: Assets/random scripted motion.unity
   isLoaded: 1
   isActive: 1

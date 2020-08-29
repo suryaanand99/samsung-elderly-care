@@ -74,6 +74,7 @@
     <Compile Include="Assets\scripts\fps.cs" />
     <Compile Include="Assets\scripts\movement.cs" />
     <Compile Include="Assets\scripts\navmeshmov.cs" />
+    <Compile Include="Assets\scripts\validationExporter.cs" />
     <None Include="Assets\ConeCollider\readme_jp.txt" />
     <None Include="Assets\ConeCollider\readme_en.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
